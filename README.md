@@ -9,9 +9,9 @@ Foi feita uma pesquisa sobre os tipos básicos de dados que todo aeroporto tem, 
 ## 📑 Linked List - Lista Encadeada 📑
 
 Uma lista encadeada possui uma sequência encadeada de elementos, chamados de nós da lista.
-• o nó da lista é representado por dois campos:
-  • a informação armazenada e
-  • o ponteiro para o local de memória contendo o próximo elemento da lista
+##### • o nó da lista é representado por dois campos:
+#####   • a informação armazenada e
+#####   • o ponteiro para o local de memória contendo o próximo elemento da lista
   
 Sua principal vantagem sobre os vetores é não ocupar espaços contínuos na memória.
 
