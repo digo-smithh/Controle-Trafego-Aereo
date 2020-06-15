@@ -5,8 +5,9 @@
 Aplicação ergonômica e intuitiva que possibilita o cadastro, visualização em tabela, consulta específica e exclusão de aeroportos e seus respectivos voos. A lógica foi construída baseada na estrutura de dados de Lista Encadeada <Linked List>. Porém, foi utilizada uma classe própria para tal.
   
 Foi feita uma pesquisa sobre os tipos básicos de dados que todo aeroporto tem, como códigos IATA e ICAO. Ambos foram implementados na nossa interface.
-  
-E vai de brinde um executável .jar 😊
+
+Devidamente documentado seguindo os padrões do javadoc.
+E ainda vai de brinde um executável .jar 😊
 
 ## 📑 Linked List - Lista Encadeada 📑
 
