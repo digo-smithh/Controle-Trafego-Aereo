@@ -1,6 +1,5 @@
-# ✈️ Controle-Trafego-Aereo-Java ✈️
-### Feito por Rodrigo Smith e Eduardo Migueis
-##### ☕ Linguagem utilizada: JAVA ☕
+# ✈️ Controle-Trafego-Aereo ✈️
+### por Rodrigo Smith e Eduardo Migueis
 
 Aplicação ergonômica e intuitiva que possibilita o cadastro, visualização em tabela, consulta específica e exclusão de aeroportos e seus respectivos voos. A lógica foi construída baseada na estrutura de dados de Lista Encadeada <Linked List>. Porém, foi utilizada uma classe própria para tal.
   
